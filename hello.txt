@@ -1,15 +1,2 @@
-<<<<<<< HEAD
 1 line
-2 line
-<<<<<<< Updated upstream
-=======
-First line
-Second Line
->>>>>>> 54e023e (First commit from new_branch)
-=======
-3 line
->>>>>>> Stashed changes
-First line
 Second line
-1 line
-2 line
