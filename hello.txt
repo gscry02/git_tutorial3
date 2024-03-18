@@ -9,3 +9,5 @@ Second Line
 =======
 3 line
 >>>>>>> Stashed changes
+First line
+Second line
